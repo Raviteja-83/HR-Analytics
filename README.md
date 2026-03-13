@@ -135,3 +135,30 @@ This means salary level slightly impacts employee retention.
 
 These filters allow HR to analyze employee trends based on different categories.
 ![image alt](https://github.com/Raviteja-83/HR-Analytics/blob/25197d0436e071d6ca68752fc936b2412d6facaf/Screenshot%202026-03-13%20214152.png)
+
+TABLEAU
+
+1. Core Workforce Demographics
+   Total Employees: 50,000 (50K).
+
+   Gender Balance: The workforce is perfectly split with 25,000 males and 25,000 females.
+
+   Hourly Rate Insight: A specific callout shows the hourly rate for a Male Research Scientist is 114.4.
+
+2. Attrition Analysis (The Primary Focus)
+   The dashboard highlights a very high Average Attrition Rate of 50.26%. This suggests that roughly half of the workforce is leaving, which is a critical area      for HR intervention.
+
+  By Department: Attrition is remarkably consistent across all departments, ranging from 49.44% (Hardware) to 51.21% (Research).
+
+  By Income: Surprisingly, attrition remains high (above 50%) even for those earning above 50k, suggesting that salary might not be the primary driver of turnover.
+
+  By Promotion: There is little correlation between years since the last promotion and attrition; those who haven't been promoted in 30+ years have a 50.90%   attrition rate, nearly identical to those promoted within 0–10 years (50.24%).
+
+3. Job Satisfaction & Work-Life Balance
+    Work-Life Balance: This is measured on a scale (likely 1–4). Most roles, including Healthcare Representatives, Managers, and Research Scientists, hover around  a score of 2.50. This indicates a "mediocre" or average work-life balance across the board.
+
+4. Education & Role Distribution
+  Education Fields: The bubble chart shows the largest groups come from Medical (8,607), Other (8,359), and Marketing (8,197) backgrounds.
+
+  Filtering Options: On the left, the dashboard allows users to slice this data by Marital Status, Gender, Department, and Job Role.
+![image alt]()
