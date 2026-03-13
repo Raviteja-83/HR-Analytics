@@ -162,3 +162,72 @@ TABLEAU
 
   Filtering Options: On the left, the dashboard allows users to slice this data by Marital Status, Gender, Department, and Job Role.
 ![image alt](https://github.com/Raviteja-83/HR-Analytics/blob/14afb5f63bab199b95b225a2bab07e91d80b6466/Screenshot%202026-03-13%20214940.png)
+
+SQL
+
+1: Department-wise Attrition Rate
+
+  A view named Departmentwiseattritionrate is created.
+
+  It calculates the percentage of employees who left the company in each department.
+
+ The formula used is:
+ (Employees with Attrition = Yes / Total Employees) × 100.
+
+ The result is grouped by department and sorted by highest attrition rate.
+ 
+ 2: Average Hourly Rate of Male Research Scientists
+
+   This query calculates the average hourly salary of male employees working as Research Scientists.
+
+   The AVG() function is used to calculate the average.
+
+The result is rounded to 2 decimal places.
+
+3: Attrition Rate by Monthly Income Group
+
+   A view named Attrition_Rate_Vs_MonthlyIncomeStats is created.
+
+   Employees are divided into salary groups (Below 10K, 10K–20K, 20K–30K, etc.).
+
+   Data from two tables (hr_dataset_01 and hr_dataset_02) is joined using Employee ID.
+ 
+   It calculates attrition percentage for each income group.
+
+   This helps analyze how salary impacts employee attrition.
+   
+ 4: Average Working Years by Department
+
+   This query calculates the average number of years employees worked in each department.
+
+   It uses YearsAtCompany column from the second dataset.
+
+   The result is grouped by department and sorted by highest average working years.
+
+ 5: Job Role vs Work-Life Balance
+
+   This query calculates the average work-life balance score for each job role.
+
+   Data from both tables is joined using EmployeeNumber and EmployeeID.
+
+   It helps identify which job roles have better work-life balance.
+
+6: Attrition Rate vs Years Since Last Promotion
+
+   Employees are categorized based on years since their last promotion:
+
+  Recent Promotion
+
+   6–10 Years
+
+  11–20 Years
+
+  21–30 Years
+
+  31–40 Years
+
+  40 Years
+
+For each category, the attrition percentage is calculated.
+
+This helps HR understand how promotion delays affect employee turnover.
