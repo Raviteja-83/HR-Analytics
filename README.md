@@ -134,3 +134,4 @@ This means salary level slightly impacts employee retention.
   Job Role
 
 These filters allow HR to analyze employee trends based on different categories.
+![image alt]()
