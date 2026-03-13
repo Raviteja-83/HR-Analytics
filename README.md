@@ -66,3 +66,5 @@ This suggests salary may influence employee retention.
   The dashboard includes filters for Marital Status and Age.
 
   These filters allow HR to analyze attrition and employee trends for specific groups.
+
+![image alt]()
