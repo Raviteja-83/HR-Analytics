@@ -67,4 +67,4 @@ This suggests salary may influence employee retention.
 
   These filters allow HR to analyze attrition and employee trends for specific groups.
 
-![image alt]()
+![image alt](https://github.com/Raviteja-83/HR-Analytics/blob/8a4e6d4f92106443b4a9908877cd3cab54953ccb/Screenshot%202026-03-13%20212823.png)
