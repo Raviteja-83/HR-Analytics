@@ -161,4 +161,4 @@ TABLEAU
   Education Fields: The bubble chart shows the largest groups come from Medical (8,607), Other (8,359), and Marketing (8,197) backgrounds.
 
   Filtering Options: On the left, the dashboard allows users to slice this data by Marital Status, Gender, Department, and Job Role.
-![image alt]()
+![image alt](https://github.com/Raviteja-83/HR-Analytics/blob/14afb5f63bab199b95b225a2bab07e91d80b6466/Screenshot%202026-03-13%20214940.png)
